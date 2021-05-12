@@ -6,8 +6,9 @@ import Header from 'components/header';
 import Footer from 'components/footer';
 import '../../style.css';
 import Breadcrumbs from '../breadcrumb/breadcrumb';
-import Menu from '../../../lib/ssw.megamenu/menu/menu';
-import MobileMenu from '../../../lib/ssw.megamenu/mobile-menu/mobile-menu';
+//import Menu from '../../../lib/ssw.megamenu/menu/menu';
+import Menu from '@ssw/ssw.megamenu/dist/menu/menu';
+import MobileMenu from '@ssw/ssw.megamenu/dist/mobile-menu/mobile-menu';
 
 const Layout = ({ children, pageTitle, crumbs, crumbLabel }) => {
   const node = useRef();

@@ -29,6 +29,7 @@
     "@reach/dialog": "^0.5.3",
     "@reach/router": "^1.2.1",
     "@reach/visually-hidden": "^0.5.0",
+    "@ssw/ssw.megamenu": "^2.2.1",
     "@types/youtube": "^0.0.38",
     "autoprefixer": "^9.8.6",
     "axios": "^0.21.1",
