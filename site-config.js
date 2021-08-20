@@ -32,5 +32,5 @@ module.exports = {
     `Admins`,
     `Others`,
   ],
-  profilesRepo: `https://github.com/SSWConsulting/SSW.People.Profiles`,
+  profilesRepo: `https://github.com/zacharykeeping/SSW.People.Profiles`,
 };
